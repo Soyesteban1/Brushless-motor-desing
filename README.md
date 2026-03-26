@@ -49,7 +49,7 @@ Cada componente ha sido modelado considerando criterios de ensamblaje, geometrí
 
 ## Vista preliminar del diseño
 
-*(Aquí debes agregar tus imágenes cuando las subas)*
+
 
 
 ![Motor](images/renders/SEPARADOR MEDIDAS EN mm.png)
