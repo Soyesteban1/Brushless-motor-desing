@@ -123,7 +123,7 @@ A continuación se presentan las dimensiones principales de cada componente, exp
 
 ###  Dimensiones del estator
 
-![Medidas Estator](images/renders/MEDIDAS ESTATOR EN mm.png)
+![Medidas Estator](images/renders/MEDIDASESTATORENmm.png)
 
 En esta imagen se detallan las dimensiones del estator, las cuales definen:
 
@@ -137,7 +137,7 @@ Estas medidas son fundamentales para garantizar un correcto acople y funcionamie
 
 ###  Dimensiones del rotor
 
-![Medidas Rotor](images/renders/MEDIDAS ROTOR En mm.png)
+![Medidas Rotor](images/renders/MEDIDASROTOREnmm.png)
 
 Se presentan las dimensiones del rotor, incluyendo:
 
@@ -151,7 +151,7 @@ Estas características influyen directamente en el comportamiento dinámico del 
 
 ### 📏 Dimensiones del separador
 
-![Medidas Separador](images/renders/SEPARADOR MEDIDAS EN mm.png)
+![Medidas Separador](images/renders/SEPARADORMEDIDASENmm.png)
 
 En esta sección se muestran las dimensiones del separador, diseñado para:
 
