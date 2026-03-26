@@ -46,18 +46,131 @@ El proyecto incluye el diseño de:
 Cada componente ha sido modelado considerando criterios de ensamblaje, geometría y funcionalidad.
 
 ---
+## Diseño y componentes del motor
 
-## Vista preliminar del diseño
+A continuación se presentan los principales componentes del motor brushless diseñados en este proyecto, junto con su función dentro del sistema.
 
+---
 
+###  Ensamble general
 
+![Motor](EMSAMBLE.png)
+![Motor 2](ENSAMBLE1.png)
 
-![Motor](images/renders/SEPARADOR MEDIDAS EN mm.png)
-![Rotor](images/renders/SEPARADOR.png)
-![Estator](images/renders/ROTOR.png)
-![Estator](images/renders/MEDIDAS ROTOR EN mm.png)
-![Estator](images/renders/ESTATOR.png)
-![Estator](images/renders/MEDIDAS ESTATOR EN mm.png)
+En las imágenes anteriores se muestra el **ensamble completo del motor**, donde se integran los componentes principales: rotor, estator y separador.
+
+Este conjunto permite visualizar la disposición espacial de las piezas y validar aspectos como:
+
+* Ajuste entre componentes
+* Espacios de trabajo del rotor
+* Integración mecánica del sistema
+
+---
+
+###  Estator
+
+![Estator](ESTATOR.png)
+
+El **estator** corresponde a la parte fija del motor brushless.
+
+Su función principal es:
+
+* Soportar el sistema de bobinado
+* Generar el campo electromagnético cuando es energizado
+
+El diseño del estator considera la geometría necesaria para alojar las bobinas y permitir una correcta interacción con el rotor.
+
+---
+
+###  Rotor
+
+![Rotor](ROTOR.png)
+
+El **rotor** es la parte móvil del motor y es responsable de generar el movimiento.
+
+Este componente:
+
+* Interactúa con el campo magnético del estator
+* Produce el giro del eje del motor
+
+Su diseño es crítico, ya que influye directamente en:
+
+* La eficiencia del motor
+* El torque generado
+* La estabilidad del sistema
+
+---
+
+###  Separador
+
+![Separador](SEPARADOR.png)
+
+El **separador** es un componente diseñado para:
+
+* Mantener la distancia adecuada entre el estator y el rotor
+* Facilitar el proceso de bobinado
+* Garantizar el correcto posicionamiento de las bobinas
+
+Además, contribuye a evitar interferencias mecánicas entre las partes móviles y fijas del sistema.
+
+---
+
+##  Planos y dimensiones
+
+A continuación se presentan las dimensiones principales de cada componente, expresadas en milímetros (mm):
+
+---
+
+###  Dimensiones del estator
+
+![Medidas Estator](MEDIDAS ESTATOR EN mm.png)
+
+En esta imagen se detallan las dimensiones del estator, las cuales definen:
+
+* El espacio disponible para el bobinado
+* El diámetro interno y externo
+* La relación geométrica con el rotor
+
+Estas medidas son fundamentales para garantizar un correcto acople y funcionamiento del sistema.
+
+---
+
+###  Dimensiones del rotor
+
+![Medidas Rotor](MEDIDAS ROTOR En mm.png)
+
+Se presentan las dimensiones del rotor, incluyendo:
+
+* Diámetro
+* Espesor
+* Geometría general
+
+Estas características influyen directamente en el comportamiento dinámico del motor y en la generación de torque.
+
+---
+
+### 📏 Dimensiones del separador
+
+![Medidas Separador](SEPARADOR MEDIDAS EN mm.png)
+
+En esta sección se muestran las dimensiones del separador, diseñado para:
+
+* Mantener tolerancias adecuadas entre componentes
+* Permitir el correcto ensamblaje del sistema
+* Facilitar la manufactura y montaje
+
+---
+
+## Nota técnica
+
+El diseño de cada componente se realizó considerando criterios de:
+
+* Integridad estructural
+* Compatibilidad geométrica
+* Funcionalidad dentro del sistema electromecánico
+
+Este conjunto de piezas constituye la base para futuras etapas de simulación, validación y construcción física del motor.
+
 
 ##  Estado actual del proyecto
 
