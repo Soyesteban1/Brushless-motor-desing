@@ -1,14 +1,105 @@
-# Brushless-motor-desing
-Este proyecto documenta el diseño y desarrollo de un motor brushless
-Proyecto de diseño de un motor brushless desarrollado como parte de mi formación en ingeniería mecatrónica.
+#  Diseño de Motor Brushless (BLDC)
 
-## Avance actual
-- Modelado 3D del rotor y estator
-- Diseño conceptual del motor
+##  Descripción del proyecto
+
+Este proyecto documenta el diseño y desarrollo de un **motor brushless (BLDC)**, enfocado en el modelado mecánico de sus componentes principales y su integración en un sistema funcional.
+
+El objetivo es analizar, diseñar y estructurar un motor eléctrico eficiente, presentando:
+
+* Modelado 3D de los componentes
+* Dimensiones y geometría del sistema
+* Ensamble del motor
+* Base para futuras simulaciones y validaciones
+
+---
+
+##  Objetivos
+
+* Diseñar un motor brushless desde un enfoque mecánico y conceptual
+* Desarrollar modelos 3D del rotor, estator y componentes asociados
+* Documentar dimensiones y relaciones entre piezas
+* Establecer una base para análisis electromagnético y simulaciones futuras
+
+---
+
+## Contexto técnico
+
+Los motores brushless (BLDC) son ampliamente utilizados en aplicaciones modernas debido a su alta eficiencia, bajo mantenimiento y larga vida útil.
+
+Se emplean en:
+
+* Sistemas de propulsión (drones)
+* Robótica
+* Vehículos eléctricos
+* Automatización industrial
+
+---
+
+##  Componentes diseñados
+
+El proyecto incluye el diseño de:
+
+* Rotor
+* Estator
+* Separador / estructura de soporte
+
+Cada componente ha sido modelado considerando criterios de ensamblaje, geometría y funcionalidad.
+
+---
+
+## Vista preliminar del diseño
+
+*(Aquí debes agregar tus imágenes cuando las subas)*
+
+```markdown
+![Motor](images/renders/motor.png)
+![Rotor](images/renders/rotor.png)
+![Estator](images/renders/stator.png)
+```
+
+---
+
+##  Estado actual del proyecto
+
+*  Modelado 3D del rotor
+*  Modelado 3D del estator
+*  Diseño del separador
+*  Definición conceptual del motor
+
+---
 
 ## Próximos pasos
-- Definir configuración electromagnética
-- Generar planos
-- Simulación
 
-## Vista preliminar
+* Definir la configuración electromagnética
+
+  * Número de polos
+  * Tipo de bobinado
+* Generar planos técnicos de fabricación
+* Realizar simulaciones (térmicas y/o electromagnéticas)
+* Evaluar desempeño del diseño
+
+---
+
+##  Estructura del repositorio
+
+```bash
+images/
+ └── renders/
+
+cad/
+docs/
+manufacturing/
+```
+
+---
+
+##  Autor
+
+**David Esteban**
+Ingeniería Mecatrónica
+
+---
+
+##  Licencia
+
+Este proyecto está bajo la licencia MIT.
