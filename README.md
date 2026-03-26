@@ -146,6 +146,8 @@ Se presentan las dimensiones del rotor, incluyendo:
 * Geometría general
 
 Estas características influyen directamente en el comportamiento dinámico del motor y en la generación de torque.
+el diametro donde iran los imanes influye las medidas del iman que se vaya usar, se recomienda usar imanes de referencia 541N y 540S
+la configuracion de los imanes debe ir estrictamente de la siguiente manera: 541N-540S-541N-540S...
 
 ---
 
