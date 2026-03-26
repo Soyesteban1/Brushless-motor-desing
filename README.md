@@ -68,17 +68,6 @@ Cada componente ha sido modelado considerando criterios de ensamblaje, geometrí
 
 ---
 
-## Próximos pasos
-
-* Definir la configuración electromagnética
-
-  * Número de polos
-  * Tipo de bobinado
-* Generar planos técnicos de fabricación
-* Realizar simulaciones (térmicas y/o electromagnéticas)
-* Evaluar desempeño del diseño
-
----
 
 ##  Estructura del repositorio
 
