@@ -51,13 +51,13 @@ Cada componente ha sido modelado considerando criterios de ensamblaje, geometrí
 
 *(Aquí debes agregar tus imágenes cuando las subas)*
 
-```markdown
-![Motor](images/renders/motor.png)
-![Rotor](images/renders/rotor.png)
-![Estator](images/renders/stator.png)
-```
 
----
+![Motor](images/renders/SEPARADOR MEDIDAS EN mm.png)
+![Rotor](images/renders/SEPARADOR.png)
+![Estator](images/renders/ROTOR.png)
+![Estator](images/renders/MEDIDAS ROTOR EN mm.png)
+![Estator](images/renders/ESTATOR.png)
+![Estator](images/renders/MEDIDAS ESTATOR EN mm.png)
 
 ##  Estado actual del proyecto
 
