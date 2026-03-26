@@ -54,8 +54,8 @@ A continuación se presentan los principales componentes del motor brushless dis
 
 ###  Ensamble general
 
-![Motor](EMSAMBLE.png)
-![Motor 2](ENSAMBLE1.png)
+![Motor](images/renders/EMSAMBLE.png)
+![Motor 2](images/renders/ENSAMBLE1.png)
 
 En las imágenes anteriores se muestra el **ensamble completo del motor**, donde se integran los componentes principales: rotor, estator y separador.
 
@@ -69,7 +69,7 @@ Este conjunto permite visualizar la disposición espacial de las piezas y valida
 
 ###  Estator
 
-![Estator](ESTATOR.png)
+![Estator](images/renders/ESTATOR.png)
 
 El **estator** corresponde a la parte fija del motor brushless.
 
@@ -84,7 +84,7 @@ El diseño del estator considera la geometría necesaria para alojar las bobinas
 
 ###  Rotor
 
-![Rotor](ROTOR.png)
+![Rotor](images/renders/ROTOR.png)
 
 El **rotor** es la parte móvil del motor y es responsable de generar el movimiento.
 
@@ -103,7 +103,7 @@ Su diseño es crítico, ya que influye directamente en:
 
 ###  Separador
 
-![Separador](SEPARADOR.png)
+![Separador](images/renders/SEPARADOR.png)
 
 El **separador** es un componente diseñado para:
 
@@ -123,7 +123,7 @@ A continuación se presentan las dimensiones principales de cada componente, exp
 
 ###  Dimensiones del estator
 
-![Medidas Estator](MEDIDAS ESTATOR EN mm.png)
+![Medidas Estator](images/renders/MEDIDAS ESTATOR EN mm.png)
 
 En esta imagen se detallan las dimensiones del estator, las cuales definen:
 
@@ -137,7 +137,7 @@ Estas medidas son fundamentales para garantizar un correcto acople y funcionamie
 
 ###  Dimensiones del rotor
 
-![Medidas Rotor](MEDIDAS ROTOR En mm.png)
+![Medidas Rotor](images/renders/MEDIDAS ROTOR En mm.png)
 
 Se presentan las dimensiones del rotor, incluyendo:
 
@@ -151,7 +151,7 @@ Estas características influyen directamente en el comportamiento dinámico del 
 
 ### 📏 Dimensiones del separador
 
-![Medidas Separador](SEPARADOR MEDIDAS EN mm.png)
+![Medidas Separador](images/renders/SEPARADOR MEDIDAS EN mm.png)
 
 En esta sección se muestran las dimensiones del separador, diseñado para:
 
